@@ -134,7 +134,7 @@ pip install -r requirments.txt
 (I update this as I go.)
 
 - ✅ Chapter 1
-- ⬜️ Chapter 2
+- ✅ Chapter 2
 - ⬜️ Chapter 3
 - ⬜️ Chapter 4
 - ⬜️ Chapter 5
